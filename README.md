@@ -8,3 +8,5 @@ Using the awesome mininet tools to simulate different network topologies to disc
 # Learn
 * [Princeton Coursera](https://github.com/PrincetonUniversity/Coursera-SDN/tree/master/assignments/mininet-topology)
 * [ring ex](http://csie.nqu.edu.tw/smallko/sdn/ring.htm)
+* [reproducing research](https://reproducingnetworkresearch.wordpress.com/)
+* [scapy oneliners](http://scapy.readthedocs.io/en/latest/usage.html#simple-one-liners)
